@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "Creating a file"
+touch file1.sh
+echo "Renaming the file"
+mv file1.sh file2.exe
+

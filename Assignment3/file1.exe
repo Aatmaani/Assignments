@@ -1,0 +1,12 @@
+#!/bin/bash
+cd /home/ubuntu/Assignment3
+for x in *.sh
+do
+	if [ -f $x ]
+	then
+		echo "$x is a .sh files"
+		mv $x *.exe
+	else
+		echo "unknown file"
+	fi
+done
