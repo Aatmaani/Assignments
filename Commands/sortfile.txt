@@ -1,8 +1,0 @@
-MANOJ   456
-abcde   12345
-machi   789
-manoj   147
-sharan  123
-suraj   258
-uday    459
-uday    459
